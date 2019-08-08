@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "762239430633",
+    "firebase_url": "https://optra-7bcd8.firebaseio.com",
+    "project_id": "optra-7bcd8",
+    "storage_bucket": "optra-7bcd8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762239430633:android:a6c1873747551f04",
+        "android_client_info": {
+          "package_name": "app.com.optra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762239430633-j93rdp1rtch19oao48s7orgh79qhj5q0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.com.optra",
+            "certificate_hash": "81acb902880971cb04d472420fc33767a5c61c3d"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWW22gRBbeZ8KTAkaQ6rKqrlj78eMBeEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762239430633-r9h3649od7f2465no6p95askb7652del.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
