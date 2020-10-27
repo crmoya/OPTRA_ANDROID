@@ -13,7 +13,7 @@ import com.android.volley.toolbox.Volley;
 public class AppSingleton {
 
 
-    public static String url = "http://www.analiticachile.cl:8080/";
+    public static String url = "https://www.notariamirandaapp.cl:8081/";
 
     //public static String url = "http://192.168.43.102/optra/";
 
